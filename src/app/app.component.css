@@ -1,0 +1,30 @@
+.share-link{
+  background: dodgerblue;
+  border: dodgerblue 2px solid;
+  color: white;
+  font-size: 18px;
+}
+a{
+  text-decoration: none;
+  color: mediumblue;
+}
+.each-product{
+  border: white 500px ;
+}
+p{
+  font-size: 18px;
+}
+#first-list{
+  position: absolute;
+  margin-top: 2px;
+}
+#second-list{
+  position: absolute;
+  margin-left: 480px;
+  margin-top: 2px;
+}
+#third-list{
+  position: absolute;
+  margin-left: 1000px;
+  margin-top: 2px;
+}
